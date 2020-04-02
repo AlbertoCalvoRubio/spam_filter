@@ -1,1 +1,0 @@
-Para lanzar el programa es necesario tener instalada la distribución anaconda con los paquetes actualizados (o instalarlos de forma manual). Desde anaconda, se puede correr con "python main.py" o desde el IDE Spyder el fichero main.py
