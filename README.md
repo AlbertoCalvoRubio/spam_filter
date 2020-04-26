@@ -1,2 +1,2 @@
 # spam_filter
-Spam filter implemented with Python. Artifical Intelligence: Naive Bayesian classifier
+Spam filter implemented in Python. Artifical Intelligence: Naive Bayesian classifier
